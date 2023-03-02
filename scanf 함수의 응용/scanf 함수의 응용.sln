@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scanf 함수의 응용", "scanf 함수의 응용.vcxproj", "{4D80C845-451A-4D6C-A989-2C2A456FF5D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D80C845-451A-4D6C-A989-2C2A456FF5D3}.Debug|x64.ActiveCfg = Debug|x64
+		{4D80C845-451A-4D6C-A989-2C2A456FF5D3}.Debug|x64.Build.0 = Debug|x64
+		{4D80C845-451A-4D6C-A989-2C2A456FF5D3}.Debug|x86.ActiveCfg = Debug|Win32
+		{4D80C845-451A-4D6C-A989-2C2A456FF5D3}.Debug|x86.Build.0 = Debug|Win32
+		{4D80C845-451A-4D6C-A989-2C2A456FF5D3}.Release|x64.ActiveCfg = Release|x64
+		{4D80C845-451A-4D6C-A989-2C2A456FF5D3}.Release|x64.Build.0 = Release|x64
+		{4D80C845-451A-4D6C-A989-2C2A456FF5D3}.Release|x86.ActiveCfg = Release|Win32
+		{4D80C845-451A-4D6C-A989-2C2A456FF5D3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDD855E7-2A45-4A0F-AE5A-63E4F2F7AF55}
+	EndGlobalSection
+EndGlobal
