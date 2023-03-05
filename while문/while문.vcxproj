@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4a7e729e-9973-4cbe-9e26-dc5ee3f6d3ca}</ProjectGuid>
-    <RootNamespace>연산자_우선순위와_연산_방향</RootNamespace>
+    <ProjectGuid>{af0b68ae-c28f-47b5-bba6-1c64166da553}</ProjectGuid>
+    <RootNamespace>while문</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="예제4-14.c">
+    <ClCompile Include="while문을 사용한 반복문.c">
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
   </ItemGroup>

@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4a7e729e-9973-4cbe-9e26-dc5ee3f6d3ca}</ProjectGuid>
-    <RootNamespace>연산자_우선순위와_연산_방향</RootNamespace>
+    <ProjectGuid>{1610db25-f229-403f-aec9-ed7214f86d91}</ProjectGuid>
+    <RootNamespace>break로_무한반복문</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="예제4-14.c">
+    <ClCompile Include="무한반복문_빠져나오기.c">
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
   </ItemGroup>

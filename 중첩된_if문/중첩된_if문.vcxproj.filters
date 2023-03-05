@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="예제4-14.c">
+    <ClCompile Include="중첩된_if문사용.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

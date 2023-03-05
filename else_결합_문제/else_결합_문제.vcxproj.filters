@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="예제4-14.c">
+    <ClCompile Include="중첩_if문에서_중괄호가_반드시_필요한이유.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
