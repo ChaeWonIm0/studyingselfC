@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="문제.c">
+    <ClCompile Include="환산하여_출력하는_프로그램.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
