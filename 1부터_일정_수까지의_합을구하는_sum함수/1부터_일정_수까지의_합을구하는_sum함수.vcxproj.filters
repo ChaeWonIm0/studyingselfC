@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="매개변수_반환값이_모두_없는_함수.c">
+    <ClCompile Include="sum_함수.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
