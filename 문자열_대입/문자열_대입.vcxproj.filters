@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="break를 사용한 반복문 종료.c">
+    <ClCompile Include="문자열을_대입하는_strcpy_함수.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

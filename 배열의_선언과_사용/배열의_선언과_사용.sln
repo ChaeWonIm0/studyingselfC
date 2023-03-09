@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "배열의_선언과_사용", "배열의_선언과_사용.vcxproj", "{BC5779B7-7A85-4170-9FD3-C1A40A7686ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC5779B7-7A85-4170-9FD3-C1A40A7686ED}.Debug|x64.ActiveCfg = Debug|x64
+		{BC5779B7-7A85-4170-9FD3-C1A40A7686ED}.Debug|x64.Build.0 = Debug|x64
+		{BC5779B7-7A85-4170-9FD3-C1A40A7686ED}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC5779B7-7A85-4170-9FD3-C1A40A7686ED}.Debug|x86.Build.0 = Debug|Win32
+		{BC5779B7-7A85-4170-9FD3-C1A40A7686ED}.Release|x64.ActiveCfg = Release|x64
+		{BC5779B7-7A85-4170-9FD3-C1A40A7686ED}.Release|x64.Build.0 = Release|x64
+		{BC5779B7-7A85-4170-9FD3-C1A40A7686ED}.Release|x86.ActiveCfg = Release|Win32
+		{BC5779B7-7A85-4170-9FD3-C1A40A7686ED}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8F2ED85-C2F4-4651-92DC-89F96EFDF2BA}
+	EndGlobalSection
+EndGlobal

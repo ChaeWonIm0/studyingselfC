@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="예제4-7.c">
+    <ClCompile Include="포인터에_const_사용.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e966a27c-ecf1-4581-a57e-a7731c2ba55c}</ProjectGuid>
-    <RootNamespace>C_template2</RootNamespace>
+    <ProjectGuid>{93828f70-9f7b-40ec-9539-875e62fcf2fe}</ProjectGuid>
+    <RootNamespace>문자열_전용_입출력_함수</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>break_이</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="break를 사용한 반복문 종료.c">
+    <ClCompile Include="빈칸을_포함한_문자열_입력_gets,puts.c">
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
   </ItemGroup>
