@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="예제.c">
+    <ClCompile Include="개행문자로_인해_gets_함수가_입력을_못하는_경우.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
